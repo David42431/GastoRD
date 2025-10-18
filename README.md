@@ -1,6 +1,3 @@
-# expensetrackerdo
-Expense tracker the dominican way 🇩🇴
-
 # GastoRD - Expense Tracker
 
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
