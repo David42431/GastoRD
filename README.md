@@ -10,7 +10,7 @@ Expense tracker the dominican way 🇩🇴
 
 Una aplicación web moderna para rastrear gastos personales, especialmente diseñada para usuarios dominicanos con categorías relevantes y moneda en pesos dominicanos (DOP).
 
-## ✨ Características
+## Características
 
 - Interfaz moderna y responsive
 - Diseño adaptado a la cultura dominicana
@@ -21,7 +21,7 @@ Una aplicación web moderna para rastrear gastos personales, especialmente dise�
 - Persistencia de datos en localStorage
 - Interfaz de autenticación simulada
 
-## 🚀 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - HTML5
 - CSS3 (Flexbox, Grid, Variables CSS)
@@ -29,7 +29,7 @@ Una aplicación web moderna para rastrear gastos personales, especialmente dise�
 - Font Awesome (iconografía)
 - LocalStorage API
 
-## 📦 Instalación
+## Instalación
 
 1. Clona el repositorio:
 
@@ -44,7 +44,7 @@ python -m http.server 8000
 npx http-server
 
 
-# 📖 Cómo Usar
+# Cómo Usar
 
 1. Inicia sesión con cualquier correo y contraseña (autenticación simulada)
 
@@ -64,7 +64,7 @@ npx http-server
 
 9. Elimina gastos haciendo clic en el icono de basura
 
-# 🎨 Categorías de Gastos
+# Categorías de Gastos
 
 Comida (Restaurante/Colmado)
 
@@ -82,10 +82,10 @@ Educación
 
 Otros gastos
 
-# 📱 Compatibilidad
+# Compatibilidad
 Compatible con todos los navegadores modernos y dispositivos móviles.
 
-# 🤝 Contribuir
+# Contribuir
 Las contribuciones son bienvenidas. Si deseas mejorar este proyecto:
 
 Haz un Fork del proyecto
@@ -98,9 +98,9 @@ Push a la rama (git push origin feature/AmazingFeature)
 
 Abre un Pull Request
 
-# 📄 Licencia
+# Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-# 👨‍💻 Desarrolladores
+# Desarrolladores
 Edwin
 Anthony
