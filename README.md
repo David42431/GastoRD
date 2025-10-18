@@ -102,6 +102,5 @@ Abre un Pull Request
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 # 👨‍💻 Desarrolladores
-Sarah
 Edwin
 Anthony
